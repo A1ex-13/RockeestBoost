@@ -2,7 +2,7 @@
   <img src="https://github.com/A1ex-13/RocketBoost/blob/main/rb.png" width="200"/>
 </div>  
 
-# RockeetBoost  
+# RockeestBoost  
 
 попробуй калькулятор [прямо в браузере](https://a1ex-13.github.io/RockeetBoost/RockeetBoost.html)
 
